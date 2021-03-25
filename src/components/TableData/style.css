@@ -1,0 +1,79 @@
+#table {
+    width: 90%;
+    text-align: center;
+    border: solid #808080 2px;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    table-layout: auto;
+}
+#headings {
+  font-size: 18pt;
+}
+
+th {
+    font-weight: bold;
+}
+  
+td, th {
+    border: 1px solid #e5eaee;
+    background-color: white;
+    text-align: left;
+    padding: 8px;
+  }
+  
+tr:nth-child(even) {
+    background-color: #e5eaee;
+  }
+h1{
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 42pt;
+  color: white;
+  }
+
+  .form-control{
+    height: 20pt;
+    width: 250px;
+
+  }
+#button-addon2 {
+
+  height: 24pt;
+  color: cadetblue;
+  border-color: white; 
+  font-size:14pt;
+  border-radius: 2px;
+
+}
+#button-addon2:hover{
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+} 
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16pt;
+  color: white;
+}
+.fas {
+  size:25px;
+}
+.form-label {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    color: white;
+    margin-bottom: 40px;
+}
+header {
+    background-color: cadetblue;
+    padding: 20px;
+    height: 230px;
+    width: 100%;
+    text-align: center;
+    margin-top: 0; 
+    margin-bottom: 20px; 
+
+}
