@@ -17,10 +17,10 @@ The employee-directory was created using React and applies HTML, css, JavaScript
 
 Issues with heroku deployment required a repository rebuild. Complete commit history can be found at the link below.
 
-[Commit History]()
+[Commit History](https://github.com/catherinebshaw/Employee-Directory)
 ## Mock Up
-![Employee Directory Full Search Image](https://github.com/catherinebshaw/Employee-Directory/blob/main/employee-directory/public/ED%20ScreenShot%20Large.png)
-![Employee Directory Sort by Country Image](https://github.com/catherinebshaw/Employee-Directory/blob/main/employee-directory/public/ED%20ScreenShot%20Sort%20.png)
+![Employee Directory Full Search Image](https://github.com/catherinebshaw/employee-hw/blob/master/public/edirectory-screenshot%20main.png)
+
 
 ## Live Site
-[Employee Directory](https://employee-directory-cs.herokuapp.com/)
+[Searchable Employee Directory](https://employee-directory-cs.herokuapp.com/)
