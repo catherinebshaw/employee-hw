@@ -7,11 +7,11 @@ An application that provides searchable data on employees within an organization
 
 ## User Experience
 
-Users are presented with a full listing of the employees within an organization.  Data presented for each employee includes name, image, country, and cell phone number. Users can sort employees by first name in both ascending and descending order. Users can also filter employees by country.  Search results provides a summary of employees in that country.
+Upon opening the application, users are presented with a complete listing of employees within the organization.  Data presented for each employee includes name, image, country, and cell phone number. Users can sort employees by first name in both ascending and descending order. Users can also filter employees by country.  Search results provides a summary of employees in that country.
 
 ## Technology Used 
 
-The employee-directory was created using React and applies HTML, css, JavaScript, node.js. The application has been deployed on heroku. 
+The employee-directory was created using ReactJS and applies HTML, css, JavaScript, node.js. The application is built on has been deployed on heroku. 
 
 ## Commit History
 
