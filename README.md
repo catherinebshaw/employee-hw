@@ -11,7 +11,7 @@ Upon opening the application, users are presented with a complete listing of emp
 
 ## Technology Used 
 
-The employee-directory was created using ReactJS and applies HTML, css, JavaScript, node.js. The application is built on has been deployed on heroku. 
+The employee-directory was created using ReactJS and applies HTML, css, JavaScript, node.js. Employee information is obtained through an API to randomuser.me which can be updated to interface with employee databases. The application has been deployed on heroku so users are able to simply launch the application in their browser. 
 
 ## Commit History
 
